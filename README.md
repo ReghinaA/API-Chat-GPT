@@ -1,5 +1,5 @@
 # API-Chat-GPT
-working with documentation
+Interacting with Chat GPT via API requests. Working with documentation. 
 
 
 https://platform.openai.com/docs/api-reference/introduction
